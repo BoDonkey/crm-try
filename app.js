@@ -1,0 +1,3 @@
+require('apostrophe')({
+  shortName: 'CRM'
+});
